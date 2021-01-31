@@ -9,7 +9,6 @@ package kurs;
 //Вторая функция должна получать на вход хеш и искать его в нашем файле. Если такое хеш уже был
 //однажды сгенерен, функция должна возвращать соль и изначальное значение. Иначе кидать исключение.
 
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
